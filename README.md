@@ -3,7 +3,7 @@
 
 Automated ETH bridging bot from Ethereum Sepolia testnet to Fhenix testnet.
 
-## 🚀 What It Does
+## 🚀 What It Does.
 
 - Automatically bridges Sepolia ETH to Fhenix testnet using official bridge contracts
 - Randomizes transaction amounts and timing
