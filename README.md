@@ -1,7 +1,7 @@
 
 # Fhenix Auto Bridge Bot
 
-Automated ETH bridging bot from Ethereum Sepolia testnet to Fhenix testnet.
+Automated ETH bridging bot from Ethereum Sepolia testnet to Fhenix testnet
 
 ## 🚀 What It Does.
 
