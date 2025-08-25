@@ -170,7 +170,7 @@ async function chainId() { return CHAIN_ID_ENV ?? (await provider.getNetwork()).
 
 async function mainLoop() {
   const chId = await chainId();
-  console.log(chalk.yellow('================ Daily Auto Bridge FHENIX TESTNET ================='));
+  console.log(chalk.yellow('================ Daily Auto Bridge FHENIX TESTNET BOT ================='));
   console.log(`Wallet: ${wallet.address}`);
   console.log(`Proxy : ${PROXY_ADDRESS}`);
   console.log(`Daily target: ${MIN_TX_PER_DAY}..${MAX_TX_PER_DAY}`);
